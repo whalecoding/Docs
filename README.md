@@ -3,6 +3,13 @@
 
 ```
 
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GPT-3 API Chat</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
     <style>
       body {
         font-family: Arial, sans-serif;
@@ -64,4 +71,5 @@
         overflow-wrap: break-word;
       }
     </style>
+  </head>
 ```
